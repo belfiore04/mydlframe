@@ -1,0 +1,6 @@
+numpy~=2.1.1
+scikit-learn~=1.5.2
+websockets~=13.1
+setuptools~=75.1.0
+hmmlearn~=0.3.3
+nltk~=3.9.1
